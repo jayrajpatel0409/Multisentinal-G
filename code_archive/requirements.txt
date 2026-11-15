@@ -1,0 +1,9 @@
+# Python 3.13 (tested). Versions are those used for the paper's runs.
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+scikit-learn==1.9.1
+networkx==3.6.1
+xgboost==3.4.1
+matplotlib==3.11.2
+torch==2.14.1        # only needed for the GraphSAGE / MLP runs (yelp_nested.py with NESTED_GNN, HYBRID or GCTRL)

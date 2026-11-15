@@ -1,0 +1,463 @@
+{
+ "null": [
+  {
+   "seed": 0,
+   "users": 4000,
+   "reviews": 16109,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 1,
+   "media_0.05": 0,
+   "sync_raw": 2517
+  },
+  {
+   "seed": 1,
+   "users": 4000,
+   "reviews": 15682,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4053
+  },
+  {
+   "seed": 2,
+   "users": 4000,
+   "reviews": 15781,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2257
+  },
+  {
+   "seed": 3,
+   "users": 4000,
+   "reviews": 15954,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3296
+  },
+  {
+   "seed": 4,
+   "users": 4000,
+   "reviews": 16117,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4346
+  },
+  {
+   "seed": 5,
+   "users": 4000,
+   "reviews": 15746,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3415
+  },
+  {
+   "seed": 6,
+   "users": 4000,
+   "reviews": 16390,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2345
+  },
+  {
+   "seed": 7,
+   "users": 4000,
+   "reviews": 15878,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3341
+  },
+  {
+   "seed": 8,
+   "users": 4000,
+   "reviews": 15954,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2389
+  },
+  {
+   "seed": 9,
+   "users": 4000,
+   "reviews": 15987,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4031
+  },
+  {
+   "seed": 10,
+   "users": 4000,
+   "reviews": 15988,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4007
+  },
+  {
+   "seed": 11,
+   "users": 4000,
+   "reviews": 16325,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 1,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3130
+  },
+  {
+   "seed": 12,
+   "users": 4000,
+   "reviews": 15686,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2180
+  },
+  {
+   "seed": 13,
+   "users": 4000,
+   "reviews": 15984,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 1,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3300
+  },
+  {
+   "seed": 14,
+   "users": 4000,
+   "reviews": 16121,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 2,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2924
+  },
+  {
+   "seed": 15,
+   "users": 4000,
+   "reviews": 16151,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 1,
+   "media_0.05": 0,
+   "sync_raw": 4124
+  },
+  {
+   "seed": 16,
+   "users": 4000,
+   "reviews": 16130,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3140
+  },
+  {
+   "seed": 17,
+   "users": 4000,
+   "reviews": 16136,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 2,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4614
+  },
+  {
+   "seed": 18,
+   "users": 4000,
+   "reviews": 16012,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4905
+  },
+  {
+   "seed": 19,
+   "users": 4000,
+   "reviews": 15864,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 1,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4056
+  },
+  {
+   "seed": 20,
+   "users": 4000,
+   "reviews": 15955,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3219
+  },
+  {
+   "seed": 21,
+   "users": 4000,
+   "reviews": 15773,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2688
+  },
+  {
+   "seed": 22,
+   "users": 4000,
+   "reviews": 15960,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4788
+  },
+  {
+   "seed": 23,
+   "users": 4000,
+   "reviews": 16355,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 5264
+  },
+  {
+   "seed": 24,
+   "users": 4000,
+   "reviews": 16183,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3537
+  },
+  {
+   "seed": 25,
+   "users": 4000,
+   "reviews": 16091,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3035
+  },
+  {
+   "seed": 26,
+   "users": 4000,
+   "reviews": 16090,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 6,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3948
+  },
+  {
+   "seed": 27,
+   "users": 4000,
+   "reviews": 16348,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 4586
+  },
+  {
+   "seed": 28,
+   "users": 4000,
+   "reviews": 15682,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 3737
+  },
+  {
+   "seed": 29,
+   "users": 4000,
+   "reviews": 15900,
+   "sync_0.01": 0,
+   "content_0.01": 0,
+   "media_0.01": 0,
+   "sync_0.05": 0,
+   "content_0.05": 0,
+   "media_0.05": 0,
+   "sync_raw": 2406
+  }
+ ],
+ "terse": [
+  {
+   "seed": 0,
+   "content_disc=True": 21961,
+   "content_disc=False": 73873
+  },
+  {
+   "seed": 1,
+   "content_disc=True": 22136,
+   "content_disc=False": 74262
+  },
+  {
+   "seed": 2,
+   "content_disc=True": 23552,
+   "content_disc=False": 72771
+  },
+  {
+   "seed": 3,
+   "content_disc=True": 27161,
+   "content_disc=False": 78694
+  },
+  {
+   "seed": 4,
+   "content_disc=True": 24478,
+   "content_disc=False": 73926
+  },
+  {
+   "seed": 5,
+   "content_disc=True": 24794,
+   "content_disc=False": 79066
+  },
+  {
+   "seed": 6,
+   "content_disc=True": 24929,
+   "content_disc=False": 79819
+  },
+  {
+   "seed": 7,
+   "content_disc=True": 22839,
+   "content_disc=False": 74083
+  },
+  {
+   "seed": 8,
+   "content_disc=True": 21026,
+   "content_disc=False": 68957
+  },
+  {
+   "seed": 9,
+   "content_disc=True": 24524,
+   "content_disc=False": 73813
+  }
+ ],
+ "scale": [
+  {
+   "users": 1087,
+   "reviews": 4868,
+   "t_sync": 0.004687309265136719,
+   "t_content": 0.10692167282104492,
+   "t_media": 0.007783412933349609,
+   "t_total_graph": 0.15103673934936523,
+   "edges": 1606
+  },
+  {
+   "users": 2174,
+   "reviews": 9113,
+   "t_sync": 0.0039055347442626953,
+   "t_content": 0.30675411224365234,
+   "t_media": 0.009569883346557617,
+   "t_total_graph": 0.4629039764404297,
+   "edges": 4895
+  },
+  {
+   "users": 4356,
+   "reviews": 18208,
+   "t_sync": 0.01381683349609375,
+   "t_content": 1.2720084190368652,
+   "t_media": 0.013383865356445312,
+   "t_total_graph": 1.7913165092468262,
+   "edges": 23324
+  },
+  {
+   "users": 8712,
+   "reviews": 36719,
+   "t_sync": 0.023602724075317383,
+   "t_content": 5.203572511672974,
+   "t_media": 0.022900819778442383,
+   "t_total_graph": 7.219345331192017,
+   "edges": 91371
+  },
+  {
+   "users": 17391,
+   "reviews": 73957,
+   "t_sync": 0.07791399955749512,
+   "t_content": 20.560041427612305,
+   "t_media": 0.03908181190490723,
+   "t_total_graph": 31.235947847366333,
+   "edges": 352203
+  }
+ ]
+}

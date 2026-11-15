@@ -1,0 +1,34 @@
+{
+ "sync": {
+  "edges": 803,
+  "friend_edges": 205,
+  "frac": 0.25529265255292655,
+  "chance": 0.002748283690949118,
+  "lift": 92.89166667679834,
+  "nodes_with_friends": 0.8178466076696165
+ },
+ "sync_raw": {
+  "edges": 997,
+  "friend_edges": 276,
+  "frac": 0.2768304914744233,
+  "chance": 0.004983613215500152,
+  "lift": 55.54814940561971,
+  "nodes_with_friends": 0.8350854139290408
+ },
+ "content": {
+  "edges": 4,
+  "friend_edges": 1,
+  "frac": 0.25,
+  "chance": 0.027916666666666666,
+  "lift": 8.955223880597016,
+  "nodes_with_friends": 0.5
+ },
+ "content_k1": {
+  "edges": 84,
+  "friend_edges": 8,
+  "frac": 0.09523809523809523,
+  "chance": 0.002211056770636553,
+  "lift": 43.07356396402098,
+  "nodes_with_friends": 0.5375
+ }
+}

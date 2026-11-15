@@ -1,0 +1,53 @@
+{
+ "lp_sync": {
+  "label": "Propagation of base score (label-propagation style)",
+  "graph": "sync",
+  "no_control": [
+   0.009477532989254597,
+   0.001180047106401886
+  ],
+  "with_control": [
+   0.00031554374876093433,
+   0.0026264576487302414
+  ]
+ },
+ "lp_union": {
+  "label": "Propagation of base score (label-propagation style)",
+  "graph": "union",
+  "no_control": [
+   0.009619282837706819,
+   0.000861511712691251
+  ],
+  "with_control": [
+   0.0007433565362670036,
+   0.0024534870468546563
+  ]
+ },
+ "sign_sync": {
+  "label": "Neighbour aggregation + learned model (SIGN style)",
+  "graph": "sync",
+  "no_control": [
+   0.0016558370923457355,
+   0.0012239728512258427
+  ],
+  "with_control": [
+   0.0012168803055360167,
+   0.0022525962538583588
+  ]
+ },
+ "sign_union": {
+  "label": "Neighbour aggregation + learned model (SIGN style)",
+  "graph": "union",
+  "no_control": [
+   0.007111804810266964,
+   0.0016633833479762106
+  ],
+  "with_control": [
+   0.005320699636408725,
+   0.0014227304397590734
+  ]
+ },
+ "ctx_gain": [
+  0.012854176164615353
+ ]
+}

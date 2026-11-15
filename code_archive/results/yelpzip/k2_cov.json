@@ -1,0 +1,10 @@
+{
+ "covered_accounts": 6133,
+ "covered_share_reviews": 0.12766390951005427,
+ "ap_cov_stage_fusion": 0.40279211275292826,
+ "ap_unc_stage_fusion": 0.4794168071009852,
+ "ap_cov_acct_context": 0.4931779760522411,
+ "ap_unc_acct_context": 0.48692397060414905,
+ "ap_cov_full_k2": 0.5170076206803549,
+ "ap_unc_full_k2": 0.4890767579986169
+}
